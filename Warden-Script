@@ -1,4 +1,3 @@
--- hahu
 local LL0ojijoIlO=(getfenv and getfenv(1)) or _ENV or _G
 local j1ojO0lliILi,l0OIOOiLL=string.byte,string.char
 local function iiO1lll1olliO(l0ojjLlj0loll1,joLjOo)
